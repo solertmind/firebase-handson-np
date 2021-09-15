@@ -10,3 +10,12 @@ https://stackoverflow.com/questions/43828039/how-to-login-to-firebase-tools-on-h
 Getting Started with Cloud Functions for Firebase using TypeScript - Firecasts
 https://www.youtube.com/watch?v=DYfP-UIKxH0
 
+Firebase console → https://goo.gl/mgj8Sc
+Install node.js → https://goo.gl/D33cb2
+Cloud Functions documentation → https://goo.gl/BwdRcY
+Codelab → https://goo.gl/DvWbAB
+Sample code → https://goo.gl/jPLjJd
+Using TSLint with TypeScript → https://goo.gl/gg65KD
+
+Cloud Functions for Firebase - Tutorials → http://bit.ly/2M2ZBcE
+Subscribe to the Firebase channel → http://bit.ly/firebase2
